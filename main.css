@@ -1,0 +1,33 @@
+body {
+  background-color: #d0e4fe;
+  font-family: "Helvetica";
+}
+
+h1 {
+  color: orange;
+  text-align: center;
+}
+
+.weather-wrapper {
+  padding: 0 20px;
+}
+
+.temp {
+  margin-bottom: 0;
+}
+
+.summary {
+  margin-top: 0;
+}
+
+.summary-item > * {
+  vertical-align: middle;
+}
+
+.search-wrapper {
+  padding: 20px 0;
+}
+
+.error-message {
+  color: red;
+}
